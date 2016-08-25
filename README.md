@@ -1,6 +1,7 @@
 # yii-maintenance
-Yii filter to redirect user when turn on maintenance mode.
-usage normal in controller
+
+###Yii filter to redirect user when turn on maintenance mode.
+###usage normal in controller
     public function filters()
     {
         return [
@@ -10,7 +11,8 @@ usage normal in controller
             ],
         ];
     }
-custome maintenance view
+    
+###custome maintenance view
     public function filters()
     {
         return [
@@ -22,4 +24,5 @@ custome maintenance view
             ],
         ];
     }
-Have fun!
+    
+###Have fun!
