@@ -5,6 +5,7 @@
  * return 503 or maintenance view if turn on maintenance
  * 
  * @author Peter Lai <alk03073135@gmail.com>
+ * @license MIT
  * @since  20160825
  */
 class MaintenanceFilter extends CFilter
